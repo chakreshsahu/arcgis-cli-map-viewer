@@ -31,3 +31,4 @@ Use `npm run serve` to full test that Service Workers are working correctly with
 ## Description 
 
 This application is based arcgis-cli. Esri Default Widgets included in application.
+![Widget UI](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/AppSnap.JPG)
