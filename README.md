@@ -30,5 +30,10 @@ Use `npm run serve` to full test that Service Workers are working correctly with
 
 ## Description 
 
-This application is based arcgis-cli. Esri Default Widgets included in application.
+This application is based on arcgis-cli. Esri Default Widgets included in application.
 ![Widget UI](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/AppSnap.JPG)
+
+## Reference 
+1. [Introducing a cli for the ArcGIS API for JavaScript](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/introducing-a-cli-for-the-arcgis-api-for-javascript/)
+
+2. [`@arcgis/cli`](https://github.com/Esri/arcgis-js-cli)
