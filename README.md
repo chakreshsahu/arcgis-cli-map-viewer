@@ -30,8 +30,44 @@ Use `npm run serve` to full test that Service Workers are working correctly with
 
 ## Description 
 
-This application is based on arcgis-cli. Esri Default Widgets included in application.
+The Map Viewer application is built by using [`@arcgis/cli`](https://github.com/Esri/arcgis-js-cli). 
+
 ![Widget UI](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/AppSnap.JPG)
+
+The Map Viewer have following esri widgets. 
+
+- Home Widget
+
+
+- Locate Widget
+
+
+- Coordinate Conversion Widget
+
+
+- Scalebar
+
+
+- Search Widget
+
+
+- Legend Widget
+
+
+- Layerlist Widget
+
+
+- Basemap Gallery Widget
+
+
+- Print Widget
+
+
+- Basemap Toggle Widget
+
+
+
+
 
 ## Reference 
 1. [Introducing a cli for the ArcGIS API for JavaScript](https://www.esri.com/arcgis-blog/products/js-api-arcgis/mapping/introducing-a-cli-for-the-arcgis-api-for-javascript/)
