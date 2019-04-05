@@ -6,6 +6,11 @@ This application is written in [TypeScript](http://www.typescriptlang.org/) and 
 
 You can develop, test, and build the application using various commands.
 
+Clone or download the repository than move to application root and Run 
+```sh
+npm install
+```
+
 Run the application in development mode with a local development server.
 ```sh
 npm start
