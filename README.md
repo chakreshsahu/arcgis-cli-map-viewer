@@ -32,40 +32,49 @@ Use `npm run serve` to full test that Service Workers are working correctly with
 
 The Map Viewer application is built by using [`@arcgis/cli`](https://github.com/Esri/arcgis-js-cli). 
 
-![Widget UI](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/AppSnap.JPG)
+![Map Viewer](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/AppSnap.JPG)
 
 The Map Viewer have following esri widgets. 
 
 - Home Widget
 
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/Home.JPG)
 
 - Locate Widget
 
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/Locate.JPG)
 
 - Coordinate Conversion Widget
 
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/CoordinateConversion.JPG)
 
 - Scalebar
 
-
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/Scalebar.JPG)
+  
 - Search Widget
 
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/Search.JPG)
 
 - Legend Widget
 
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/Legend.JPG)
 
 - Layerlist Widget
 
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/LayerList.JPG)
 
 - Basemap Gallery Widget
 
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/BasemapGallery.JPG)
 
 - Print Widget
 
-
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/Print.JPG)
+  
 - Basemap Toggle Widget
 
-
+  ![Home](https://github.com/chakreshsahu/arcgis-cli-map-viewer/blob/master/screenshots/BasemapToggle.JPG)
 
 
 
